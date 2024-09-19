@@ -1,0 +1,164 @@
+.header{
+    background: black;
+    width: 100%;
+    height: 60px;
+
+}
+.leftsection{ 
+width: 173px;
+
+margin-left: 40px;
+padding-left: 5px;
+position: absolute;
+top: 20px;
+cursor: pointer;
+
+
+
+}
+.enfield{ 
+    width: 30%;
+    height: 20px;
+    
+
+}
+body{
+    margin: 0;
+}
+
+.add{
+    width: 100%;
+    
+    top: 60px;
+    left: 0px;
+    height: 449px;
+    background-image: url(./classic-350-campaign.webp);
+    
+    background-size: cover;
+}
+.sentence{
+    font-size: 14px;
+    font-weight: normal;
+    text-align: center;
+    line-height: 18px;
+    font-family: Arial, sans-serif;
+    background: #fff;
+    overflow-x: hidden;
+    padding: 0.0px 30.0px;
+    margin: 0.0px auto;
+
+}
+.word{
+    font-weight: bold;
+    line-height: 18px;
+    font-size: 14px;
+    color:  #FF4500;
+    text-align: center;
+}
+.disclaimer{
+    
+    font-weight: bolder;
+}
+.another{
+    font-family: Arial, sans-serif; 
+    font-size: 14px;
+    padding: 10px 15px;
+    margin: 20px 0;
+    border-radius: 4px;
+    line-height: 5px;
+    text-align: center;
+}
+
+
+.all-form{
+    height: 200px;
+    width: 700px;
+    
+    margin-left: 191px;
+}
+.name-input{
+    width: 335px;
+    height: 40px;
+    float: left;
+    margin-right: 11px;
+}
+.email-input{
+    width: 335px;
+    height: 40px;
+    float: left;
+    margin-left: 1px;
+}
+.motorcycle{
+    width: 335px;
+    height: 40px;
+    float: left;
+    margin-top:  9px; 
+    margin-right: 11px;
+    cursor: pointer;
+}
+.numbercode{
+    width: 50px;
+    height: 40px;
+    float: left;
+    margin-top: 9px;
+    margin-left: 2px;
+}
+.number-input{
+    width: 290px;
+    height: 34px;
+    float: left;
+    margin-top: 9px;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+.pincode-input{
+    width: 335px;
+    height: 40px;
+    float: left;
+    margin-top:  9px; 
+    margin-right: 11px;
+}
+
+.paragraph{
+    font-size: 15px;
+    font-weight: normal;
+    line-height: 18px;
+    font-family: Arial, sans-serif;
+    background: #fff;
+    overflow-x: hidden;
+    margin-left: 191px;
+    margin-right: 300px;
+}
+.privacy{
+    font-weight: bolder;
+}
+.radio{
+    width: 10px;
+    height: 10px;
+    margin-left: 191px ;
+}
+.terms{
+    font-weight: bolder;
+}
+.policy{
+    font-weight: bolder;
+}
+.submit{
+    margin-left: 195px;
+    margin-top: 50px;
+    width: 76px;
+    height: 34px;
+}
+.lastpara{
+    margin-left: 15px ;
+    margin-bottom: 50px;
+}
+.footer{
+    height: 45px;
+    width: 100%;
+    background: #212121;
+}
+
+.footer-list-elements{
+    margin-left: 55px;
+}
